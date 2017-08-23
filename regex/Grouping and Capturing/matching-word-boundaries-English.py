@@ -1,0 +1,1 @@
+Regex_Pattern = r'\b[a,e,i,o,u,A,E,I,O,U]+[a-zA-Z]{0,}\b'	# Do not delete 'r'.

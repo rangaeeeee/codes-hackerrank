@@ -1,0 +1,1 @@
+Regex_Pattern = r'^[a-zA-Z,0,2,4,6,8]{40}[\s,1,3,5,7,9]{5}$'	# Do not delete 'r'.

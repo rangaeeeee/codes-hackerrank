@@ -1,0 +1,1 @@
+Regex_Pattern = r'^[\D][^a,e,i,o,u][^b,c,D,F][\S][^A,E,I,O,U][^\.,\,]$'	# Do not delete 'r'.
